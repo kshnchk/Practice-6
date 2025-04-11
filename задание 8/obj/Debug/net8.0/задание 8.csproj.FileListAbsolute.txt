@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\bin\Debug\net8.0\задание 8.exe
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\bin\Debug\net8.0\задание 8.deps.json
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\bin\Debug\net8.0\задание 8.runtimeconfig.json
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\bin\Debug\net8.0\задание 8.dll
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\bin\Debug\net8.0\задание 8.pdb
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\задание 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\задание 8.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\задание 8.AssemblyInfo.cs
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\задание 8.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\задание 8.dll
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\refint\задание 8.dll
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\задание 8.pdb
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\задание 8.genruntimeconfig.cache
+C:\Users\1\Desktop\Учеба\Основы проектирования баз данных\C#\ПР 6 КВ\задание 8\obj\Debug\net8.0\ref\задание 8.dll
